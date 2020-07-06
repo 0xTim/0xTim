@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Tim and spend most of my time working on server-side Swift! I'm a moderator and maintainer of the [Vapor](https://github.com/vapor/) framework, the server-side Swift Team Lead for [raywenderlich.com](https://www.raywenderlich.com) and provide consultancy and training through my company, [Broken Hands](https://www.brokenhands.io)!
+
+You can find more about me on [my website](https://www.timc.dev) and I'm sporadically active on Twitter at [@0xTim](https://twitter.com/0xTim). If you like what I do and want to support me, you can even [sponsor me on GitHub 🎉](https://github.com/sponsors/0xTim)
+
+If you want to get in touch, you can send me a message on Twitter or email me at tim@brokenhands.io
+
 <!--
 **0xTim/0xTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
