@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tim and spend most of my time working on server-side Swift! I'm a core team member of the [Vapor](https://github.com/vapor/) framework, the server-side Swift Team Lead for [raywenderlich.com](https://www.raywenderlich.com) and provide consultancy and training through my company, [Broken Hands](https://www.brokenhands.io)!
+I'm Tim and spend most of my time working on server-side Swift! I'm a core team member of the [Vapor](https://github.com/vapor/) framework, an author and instructor on the server-side Swift team at [Kodeco](https://www.kodeco.com) and provide consultancy and training through my company, [Broken Hands](https://www.brokenhands.io)!
 
 You can find more about me on [my website](https://www.timc.dev) and I'm sporadically active on Twitter at [@0xTim](https://twitter.com/0xTim). If you like what I do and want to support me, you can even [sponsor me on GitHub 🎉](https://github.com/sponsors/0xTim) or [sponsor Vapor](https://github.com/sponsors/vapor)
 
