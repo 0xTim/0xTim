@@ -4,7 +4,7 @@ I'm Tim and spend most of my time working on server-side Swift! I'm a core team 
 
 You can find more about me on [my website](https://www.timc.dev) and I'm sporadically active on Bluesky at [@0xTim](https://bsky.app/profile/0xtim.bsky.social) or on Mastodon at [@0xTim@hachyderm.io](https://hachyderm.io/@0xTim). If you like what I do and want to support me, you can even [sponsor me on GitHub 🎉](https://github.com/sponsors/0xTim) or [sponsor Vapor](https://github.com/sponsors/vapor)
 
-If you want to get in touch, you can send me a message on Twitter or email me at tim@brokenhands.io.
+If you want to get in touch, you can send me a message on social media, find me on [LinkedIn](https://www.linkedin.com/in/timjcondon/) or email me at tim@brokenhands.io.
 
 <!--
 **0xTim/0xTim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
